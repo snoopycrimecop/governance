@@ -65,7 +65,7 @@ Management Committee (PMC) in an Apache-governed project.
   - Removal: PSC members who become inactive can and should be removed via a
     majority vote of the existing active PSC.
 
-The PSC iscurrently defined as anyone with a *Maintainer* role as defined in the
+The PSC is currently defined as anyone with a *Maintainer* role as defined in the
 [Bio-Formats roster](../roster/).
 
 ### **PSC Chair**
