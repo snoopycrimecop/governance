@@ -127,6 +127,46 @@ reasonable attempts should be made to resolve disagreements between reviewers wi
 any role. However, it is ultimately up to an agreement within the PSC whether a
 requested change or the absence of a review blocks a proposed change.
 
+## **Repositories and Other Resources**
+
+### **GitHub Repositories**
+
+Code and documentation in the scope of the Bio-Formats project are divided into the
+following public repositories within the `ome` organization:
+
+- https://github.com/ome/bioformats
+- https://github.com/ome/bio-formats-documentation
+- https://github.com/ome/bio-formats-examples
+- https://github.com/ome/ome-codecs
+- https://github.com/ome/ome-common-java
+- https://github.com/ome/ome-jai
+- https://github.com/ome/ome-mdbtools
+- https://github.com/ome/ome-metakit
+- https://github.com/ome/ome-poi
+- https://github.com/ome/ome-stubs
+
+### **Test Data**
+
+As described in OME's [third party data usage policy](https://ome-contributing.readthedocs.io/en/latest/third-party-policy.html#usage-of-sample-data),
+OME maintains a repository of data that is used to test changes to Bio-Formats on a nightly basis. Much of this repository is only accessible
+to members of the OME project, due to licensing concerns.
+
+For each test dataset, there is a corresponding configuration entry in the private [data_repo_config](https://github.com/ome/data_repo_config) repository.
+This repository is also restricted to members of the OME project. Configuration data is used to ensure that changes to Bio-Formats do not unexpectedly
+alter how existing data is read, as described in [Bio-Formats' testing documentation](https://bio-formats.readthedocs.io/en/latest/developers/commit-testing.html).
+
+Nightly test builds are run on infrastructure that is accessible to individuals with a *Maintainer* role.
+The nightly build process is documented together with [relevant scripts](https://github.com/ome/data_repo_config/tree/master/scripts/repository-tests),
+and is accessible to all members of the OME project. Results of nightly tests are publicly reported via
+[GitHub Action on the bioformats repository](https://github.com/ome/bioformats/blob/develop/.github/workflows/report.yml).
+
+### **Release Processes**
+
+The process for a full Bio-Formats release is documented on the [Bio-Formats release page](https://ome-contributing.readthedocs.io/en/latest/bioformats-release-process.html).
+Similarly, the process for releasing individual components (e.g. `ome-common-java`) is documented on the
+[Java component release page](https://ome-contributing.readthedocs.io/en/latest/java-development.html).
+These pages are updated as needed via pull requests to the [ome-contributing](https://github.com/ome/ome-contributing) repository.
+
 ## **Code of Conduct**
 
 As a Registered Project, Bio-Formats adheres to the OME Project's
