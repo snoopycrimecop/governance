@@ -1,6 +1,6 @@
 ---
 title: Bio-Formats roster
-permalink: /governance/orp/bio-formats/roster/
+permalink: /governance/projects/bio-formats/roster/
 description: Roster for OME Bio-Formats
 ---
 
