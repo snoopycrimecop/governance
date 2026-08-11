@@ -145,6 +145,9 @@ following public repositories within the `ome` organization:
 - https://github.com/ome/ome-poi
 - https://github.com/ome/ome-stubs
 
+Open pull requests and milestones across all of these repositories are typically evaluated
+on a monthly basis, at the above-referenced meeting of the Core Model, Bio-Formats, and NGFF ORP teams.
+
 ### **Test Data**
 
 As described in OME's [third party data usage policy](https://ome-contributing.readthedocs.io/en/latest/third-party-policy.html#usage-of-sample-data),
