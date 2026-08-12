@@ -98,8 +98,8 @@ Discussions primarily occur:
 
 - publicly, in GitHub pull requests and issues
 - semi-publicly, in OME project-wide meetings which are [publicly minuted](https://ome-contributing.readthedocs.io/en/latest/team-communication.html#meetings)
-- semi-privately, in dedicated weekly meetings which span the Core Model,
-  Bio-Formats and NGFF ORPs with minutes accessible to members of the OME Project
+- semi-privately, in dedicated weekly meetings which include Maintainers and Core Developers of the Core Model,
+  Bio-Formats and NGFF ORPs with minutes accessible to [members of the OME Project](https://www.openmicroscopy.org/teams/)
 - privately, via Slack or ad hoc meetings as needed
 
 Preference is given to public discussion. In the case of private and semi-private discussions,
