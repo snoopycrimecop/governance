@@ -39,25 +39,13 @@ reflect increasing levels of responsibility and trust. Assignment of roles is
 based on **sustained and substantial contributions**, as well as demonstrated
 reliability in supporting the project.
 
-### **3.1 Steward (triage rights)**
+### **3.1 Core Dev (commit rights)**
 
-Individuals with the *Triage* role support the organization and flow of
-contributions by:
+Individuals with *Write* access actively contribute to the codebase and project materials by:
 
 - Reviewing and labeling issues and pull requests
 - Helping prioritize work and identify duplicates
 - Assisting contributors with initial feedback and guidance
-
-This role is often an entry point for deeper involvement in project maintenance.
-
-**Current Triage Members:**
-
-- (none currently)
-
-  ### **3.2 Core Dev (commit rights)**
-
-Individuals with *Write* access actively contribute to the codebase and project materials by:
-
 - Submitting and updating pull requests
 - Contributing code, documentation, or specifications
 - Collaborating with maintainers on implementation details
@@ -68,10 +56,11 @@ This role reflects consistent contribution and familiarity with project practice
 
 - (none currently)
 
-  ### **3.3 Maintainer**
+### **3.2 Maintainer**
 
 Individuals with the *Maintain* role are responsible for the ongoing
-development and direction of the project. This includes:
+development and direction of the project. This includes, in addition
+to responsibilities for the Core Developer (*Write*) role:
 
 - Reviewing and merging pull requests
 - Guiding technical direction and roadmap
@@ -86,7 +75,7 @@ sustained engagement and stewardship of the project.
 - [Sébastien Besson (Glencoe Software)](https://github.com/sbesson)
 - [Melissa Linkert (Glencoe Software)](https://github.com/melissalinkert)
 
-  ### **3.4 Admin**
+### **3.3 Admin**
 
 Administrative authority should reflect responsibility for the long-term
 success and sustainability of the project. Individuals with *Admin* access
