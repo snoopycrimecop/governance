@@ -60,7 +60,7 @@ This role reflects consistent contribution and familiarity with project practice
 
 Individuals with the *Maintain* role are responsible for the ongoing
 development and direction of the project. This includes, in addition
-to responsibilities for the Core Developer (*Write*) role:
+to responsibilities for the Core Developer role:
 
 - Reviewing and merging pull requests
 - Guiding technical direction and roadmap
