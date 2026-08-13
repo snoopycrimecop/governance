@@ -39,9 +39,9 @@ reflect increasing levels of responsibility and trust. Assignment of roles is
 based on **sustained and substantial contributions**, as well as demonstrated
 reliability in supporting the project.
 
-### **3.1 Core Dev (commit rights)**
+### **3.1 Core Dev **
 
-Individuals with *Write* access actively contribute to the codebase and project materials by:
+Individuals with *Triage* access actively contribute to the codebase and project materials by:
 
 - Reviewing and labeling issues and pull requests
 - Helping prioritize work and identify duplicates
@@ -52,7 +52,7 @@ Individuals with *Write* access actively contribute to the codebase and project 
 
 This role reflects consistent contribution and familiarity with project practices.
 
-**Current Write Members:**
+**Current Core Dev Members:**
 
 - (none currently)
 
