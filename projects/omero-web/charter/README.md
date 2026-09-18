@@ -83,9 +83,9 @@ or, if that is not possible, directive from the OMG.
 
 Decisions should be made in accordance with the mission and values of the OME
 Project. Decisions are primarily made through consensus-seeking as described below,
-and are discussed as publicly as possible. Given the foundational nature of the
-Bio-Formats project, decisions may impact other ORPs (in particular, Core Model,
-NGFF, and OMERO server). When making decisions that impact other ORPs, all
+and are discussed as publicly as possible. Decisions may impact other ORPs 
+(for example, OMERO server or core plugins). 
+When making decisions that impact other ORPs, all
 reasonable effort should be made to work with the PSC and/or maintainers of those ORPs
 to reach a mutually agreeable decision.
 
@@ -99,7 +99,7 @@ Discussions primarily occur:
 
 - publicly, in GitHub pull requests and issues
 - semi-publicly, in OME project-wide meetings which are [publicly minuted](https://ome-contributing.readthedocs.io/en/latest/team-communication.html#meetings)
-- semi-privately, in dedicated weekly meetings which span OMERO.web and related plugins,
+- semi-privately, in dedicated weekly meetings which span OMERO.web and core plugins,
   with minutes accessible to members of the OME Project
 - privately, via Slack or ad hoc meetings as needed
 
