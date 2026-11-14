@@ -23,7 +23,7 @@ Registered Projects as well as the process for modifying this document.
 | OMERO.server | API stability, Microservices, Integrations   |
 | OMERO.web    | Plugin ecosystem, Usability                  |
 | IDR          | Reference datasets, Curation workflows       |
-| NGFF         | RFC process, Format standardization          |
+| NGFF         | RFC process, Format standardization & Implementations |
 
 ## **3. Roles and Responsibilities**
 
